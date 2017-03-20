@@ -1,0 +1,890 @@
+(dp0
+S'and Stretch... Find some'
+p1
+I22
+sS'Hello Vishal. Ready for'
+p2
+I1
+sS'class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/user/images/s_1398265226.jpg" alt="" />'
+p3
+I1
+sS'yesterday. What say? :)'
+p4
+I19
+sS'you should. Your body'
+p5
+I46
+sS'Kishor,<br /><br />Waiting to'
+p6
+I1
+sS'of the week Kishor.<img'
+p7
+I1
+sS'see my steps and'
+p8
+I1
+sS'/>I would really like'
+p9
+I9
+sS'exercise should is do&nbsp;'
+p10
+I1
+sS'border-box; margin: 0px; padding:'
+p11
+I6171
+sS'stores away more than'
+p12
+I46
+sS'amazing numbers are shining'
+p13
+I1
+sS'body thinks that you'
+p14
+I46
+sS'/><br />I would really'
+p15
+I9
+sS'and sleep data too&nbsp;'
+p16
+I1
+sS'to know more about'
+p17
+I450
+sS"Hey Player... Here's a"
+p18
+I25
+sS'the wrong ones! Have'
+p19
+I22
+sS'Rather than aiming to'
+p20
+I90
+sS'be a little better'
+p21
+I90
+sS'with you....Exercise is a'
+p22
+I20
+sS"Player...What's up for today?"
+p23
+I12
+sS'down and you are'
+p24
+I46
+sS'more about your health'
+p25
+I106
+sS'body stores away more'
+p26
+I46
+sS"Hey player.. Here's something"
+p27
+I20
+sS'WOw!!! you had a'
+p28
+I1
+sS'Kishor.<img src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-laughing.gif" alt="" /><br'
+p29
+I1
+sS'away more than usual'
+p30
+I46
+sS'data.. Please start syncing'
+p31
+I13
+sS'21.6000003814697px;" /><span style="box-sizing: border-box;'
+p32
+I289
+sS'its very good source'
+p33
+I1
+sS'of good health. :)'
+p34
+I20
+sS'the fruit. How was'
+p35
+I1
+sS'in breakfast its very'
+p36
+I1
+sS'Roboto, sans-serif; font-size: 18px;'
+p37
+I2237
+sS'line-height: 21.6000003814697px;" /><br style="box-sizing:'
+p38
+I530
+sS'morning Vishal. WOw!!! you'
+p39
+I1
+sS'more than usual resulting'
+p40
+I46
+sS'to relax.. Try a'
+p41
+I22
+sS'Good morning Player! Rather'
+p42
+I38
+sS'21.6000003814697px;">Relishing your favorite food/relaxing/travelling/meeting'
+p43
+I3
+sS'again, your body stores'
+p44
+I46
+sS'0px; color: #5d5d5d; font-family:'
+p45
+I2339
+sS'/>Waiting to hear from'
+p46
+I157
+sS'week Kishor.<img src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-laughing.gif" alt=""'
+p47
+I1
+sS'So when you eat'
+p48
+I46
+sS'font-size: 18px; line-height: 21.6000003814697px;">How\'s'
+p49
+I13
+sS'some time to relax..'
+p50
+I22
+sS'share with you....Exercise is'
+p51
+I20
+sS'a weekend.. Rise and'
+p52
+I22
+sS'you are starving. So'
+p53
+I46
+sS'wrong ones! Have a'
+p54
+I22
+sS'a call to start'
+p55
+I8
+sS'that you are starving.'
+p56
+I46
+sS'delete my vishalgondal@hotmail.com account'
+p57
+I1
+sS'to share with you....Exercise'
+p58
+I20
+sS'to start the coaching'
+p59
+I20
+sS'journey? Don,t forget to'
+p60
+I1
+sS'a mango in breakfast'
+p61
+I1
+sS'your favorite food/relaxing/travelling/meeting friends?</span>'
+p62
+I3
+sS'buddy! Keep me posted.'
+p63
+I22
+sS'was your journey? Don,t'
+p64
+I1
+sS'a new activity...Keep yourself'
+p65
+I22
+sS'today? I would be'
+p66
+I13
+sS'antioxidants from the fruit.'
+p67
+I1
+sS'activity...Keep yourself full with'
+p68
+I22
+sS'over a call to'
+p69
+I254
+sS'shining my dashboard.<img class="imageViewerInLarge"'
+p70
+I1
+sS'Don,t forget to do'
+p71
+I1
+sS'skip meals, your body'
+p72
+I46
+sS'forget to do some'
+p73
+I1
+sS"/><br />Let's get connected"
+p74
+I58
+sS'18px; line-height: 21.6000003814697px;" /><span'
+p75
+I546
+sS'eating at the lunch?:)'
+p76
+I1
+sS'font-family: Roboto, sans-serif; font-size:'
+p77
+I6986
+sS'18px; line-height: 21.6000003814697px;">Relishing your'
+p78
+I3
+sS'a fabulous weekend buddy!'
+p79
+I22
+sS'stretches to avoid tiredness:)'
+p80
+I1
+sS'line-height: 21.6000003814697px;">Relishing your favorite'
+p81
+I3
+sS'something I would like'
+p82
+I20
+sS'Good to see your'
+p83
+I211
+sS'your Karma point Donation'
+p84
+I2
+sS'to avoid the wrong'
+p85
+I22
+sS'make it easier for'
+p86
+I26
+sS'nutrition is Queen. Put'
+p87
+I20
+sS'/><br /><span style="box-sizing: border-box;'
+p88
+I142
+sS'class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/conversation/1413798273_100X100.png" alt="" /><br'
+p89
+I1
+sS'little better today than'
+p90
+I90
+sS'mango in breakfast its'
+p91
+I1
+sS'Hi Kishor,<br /><br /><span'
+p92
+I1
+sS'to see your band'
+p93
+I35
+sS'I delete my vishalgondal@hotmail.com'
+p94
+I1
+sS'Good morning Vishal. WOw!!!'
+p95
+I1
+sS'I would like to'
+p96
+I2178
+sS'are not burning calories'
+p97
+I46
+sS'Shine and Stretch... Find'
+p98
+I22
+sS'line-height: 21.6000003814697px;">How\'s your weekend'
+p99
+I3
+sS'and you have got'
+p100
+I44
+sS'start of the week'
+p101
+I33
+sS"Hey Player! It's a"
+p102
+I22
+sS'is a king, nutrition'
+p103
+I42
+sS'to be perfect, we'
+p104
+I65
+sS'Stretch... Find some time'
+p105
+I22
+sS'band data.. Please start'
+p106
+I13
+sS"goals.<br /><br />Let's get"
+p107
+I1
+sS'style="box-sizing: border-box; margin: 0px;'
+p108
+I6136
+sS'eat again, your body'
+p109
+I46
+sS'had a mango in'
+p110
+I1
+sS'to hear from you..'
+p111
+I206
+sS'be glad to see'
+p112
+I61
+sS'to be a little'
+p113
+I100
+sS'meals, your body metabolism'
+p114
+I46
+sS'you have got a'
+p115
+I70
+sS'the Right Foods..which will'
+p116
+I22
+sS'0px; padding: 0px; color:'
+p117
+I5277
+sS'burning calories as you'
+p118
+I46
+sS"Here's a health tip"
+p119
+I26
+sS'margin: 0px; padding: 0px;'
+p120
+I6302
+sS'21.6000003814697px;">How\'s your weekend going?</span><br'
+p121
+I3
+sS'you- When you skip'
+p122
+I46
+sS'easier for you to'
+p123
+I29
+sS'and you are not'
+p124
+I55
+sS"It's a weekend.. Rise"
+p125
+I22
+sS'#5d5d5d; font-family: Roboto, sans-serif;'
+p126
+I3112
+sS'good source of antioxidants'
+p127
+I3
+sS'were yesterday. What say?'
+p128
+I19
+sS'are shining my dashboard.<img'
+p129
+I1
+sS'src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-laughing.gif" alt="" /><br /><br'
+p130
+I676
+sS'than aiming to be'
+p131
+I90
+sS'21.6000003814697px;" /><br style="box-sizing: border-box;'
+p132
+I530
+sS'better today than we'
+p133
+I65
+sS'18px; line-height: 21.6000003814697px;">How\'s your'
+p134
+I3
+sS'/><br style="box-sizing: border-box; margin:'
+p135
+I1539
+sS'to see your Karma'
+p136
+I3
+sS'as you should. Your'
+p137
+I46
+sS'a health tip for'
+p138
+I27
+sS'with the Right Foods..which'
+p139
+I22
+sS'when you eat again,'
+p140
+I46
+sS'ones! Have a fabulous'
+p141
+I22
+sS'some amazing numbers are'
+p142
+I1
+sS"health goals.<br /><br />Let's"
+p143
+I5
+sS'/><br /><br />I would'
+p144
+I41
+sS'in more fat. :)'
+p145
+I26
+sS'color: #5d5d5d; font-family: Roboto,'
+p146
+I3131
+sS'Find some time to'
+p147
+I22
+sS'steps and sleep data'
+p148
+I1
+sS'you to avoid the'
+p149
+I23
+sS'should. Your body thinks'
+p150
+I46
+sS'When you skip meals,'
+p151
+I46
+sS'/><br />Waiting to hear'
+p152
+I80
+sS'are starving. So when'
+p153
+I46
+sS'for some mindful eating'
+p154
+I1
+sS'Try a new activity...Keep'
+p155
+I22
+sS'/><span style="box-sizing: border-box; margin:'
+p156
+I620
+sS'aim to be a'
+p157
+I90
+sS'from the fruit. How'
+p158
+I1
+sS'/><br /><br /><br /><br'
+p159
+I223
+sS'your journey? Don,t forget'
+p160
+I1
+sS'for today? I would'
+p161
+I13
+sS'mindful eating at the'
+p162
+I1
+sS'Hi Kishor,<br /><br />Waiting'
+p163
+I1
+sS'Rise and Shine and'
+p164
+I22
+sS'the week Kishor.<img src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-laughing.gif"'
+p165
+I1
+sS'it easier for you'
+p166
+I24
+sS'of antioxidants from the'
+p167
+I1
+sS'metabolism slows down and'
+p168
+I47
+sS'see your Karma point'
+p169
+I3
+sS'call to start the'
+p170
+I2
+sS'know more about your'
+p171
+I290
+sS'Please start syncing it!'
+p172
+I13
+sS'relax.. Try a new'
+p173
+I22
+sS"Player! It's a weekend.."
+p174
+I22
+sS'kingdom of good health.'
+p175
+I60
+sS'your body metabolism slows'
+p176
+I46
+sS'my dashboard.<img class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/conversation/1413798273_100X100.png"'
+p177
+I1
+sS'Nice start of the'
+p178
+I4
+sS'than usual resulting in'
+p179
+I46
+sS'up for today? I'
+p180
+I13
+sS'Cool can u see'
+p181
+I1
+sS'Can I delete my'
+p182
+I1
+sS'I would be glad'
+p183
+I229
+sS'aiming to be perfect,'
+p184
+I90
+sS'going?</span><br style="box-sizing: border-box; margin:'
+p185
+I8
+sS'Player! Rather than aiming'
+p186
+I38
+sS'slows down and you'
+p187
+I46
+sS"Hey Player...What's up for"
+p188
+I12
+sS'together and you have'
+p189
+I42
+sS'some stretches to avoid'
+p190
+I2
+sS'Ready for some mindful'
+p191
+I1
+sS'a kingdom of good'
+p192
+I60
+sS'connected over a call'
+p193
+I109
+sS"/>Let's get connected over"
+p194
+I53
+sS'dashboard.<img class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/conversation/1413798273_100X100.png" alt=""'
+p195
+I1
+sS'king, nutrition is Queen.'
+p196
+I20
+sS'Kishor,<br /><br /><span style="box-sizing:'
+p197
+I1
+sS'new activity...Keep yourself full'
+p198
+I22
+sS'starving. So when you'
+p199
+I46
+sS'<img class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/user/images/s_1398265226.jpg" alt=""'
+p200
+I1
+sS'to do some stretches'
+p201
+I3
+sS"Here's something I would"
+p202
+I20
+sS'usual resulting in more'
+p203
+I27
+sS'very good source of'
+p204
+I9
+sS'weekend going?</span><br style="box-sizing: border-box;'
+p205
+I3
+sS'your health goals.<br /><br'
+p206
+I14
+sS'you....Exercise is a king,'
+p207
+I20
+sS'full with the Right'
+p208
+I22
+sS'a king, nutrition is'
+p209
+I42
+sS'you skip meals, your'
+p210
+I46
+sS'perfect, we shall aim'
+p211
+I65
+sS'Your body thinks that'
+p212
+I46
+sS'would be glad to'
+p213
+I98
+sS'yourself full with the'
+p214
+I22
+sS'weekend.. Rise and Shine'
+p215
+I22
+sS'have got a kingdom'
+p216
+I60
+sS'src="http://goqii-app.s3.amazonaws.com/conversation/1413798273_100X100.png" alt="" /><br /><br'
+p217
+I1
+sS'avoid the wrong ones!'
+p218
+I22
+sS'like to share with'
+p219
+I196
+sS'fruit. How was your'
+p220
+I1
+sS'See my food plate&nbsp;'
+p221
+I1
+sS'we shall aim to'
+p222
+I66
+sS'u see my steps'
+p223
+I1
+sS'always some amazing numbers'
+p224
+I1
+sS'Queen. Put them together'
+p225
+I20
+sS'time to relax.. Try'
+p226
+I22
+sS'tip for you- When'
+p227
+I46
+sS'some mindful eating at'
+p228
+I1
+sS'padding: 0px; color: #5d5d5d;'
+p229
+I2347
+sS'will make it easier'
+p230
+I25
+sS'and Shine and Stretch...'
+p231
+I22
+sS'be perfect, we shall'
+p232
+I65
+sS'really like to know'
+p233
+I149
+sS"player.. Here's something I"
+p234
+I20
+sS'Right Foods..which will make'
+p235
+I22
+sS'Vishal. Ready for some'
+p236
+I1
+sS'thinks that you are'
+p237
+I46
+sS'font-size: 18px; line-height: 21.6000003814697px;"'
+p238
+I1725
+sS'would really like to'
+p239
+I86
+sS'<img class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/user/images/s_1398239257.jpg" alt=""'
+p240
+I1
+sS"Player... Here's a health"
+p241
+I25
+sS'a little better today'
+p242
+I91
+sS'What exercise should is'
+p243
+I1
+sS'body metabolism slows down'
+p244
+I46
+sS'them together and you'
+p245
+I42
+sS'for you- When you'
+p246
+I46
+sS'numbers are shining my'
+p247
+I1
+sS'nn'
+p248
+I4
+sS'resulting in more fat.'
+p249
+I27
+sS'source of antioxidants from'
+p250
+I1
+sS'your band data.. Please'
+p251
+I13
+sS'start the coaching soon.'
+p252
+I4
+sS'not burning calories as'
+p253
+I46
+sS'my steps and sleep'
+p254
+I1
+sS'/><br /><br /><br />'
+p255
+I841
+sS'do some stretches to'
+p256
+I1
+sS'your body stores away'
+p257
+I46
+sS'Have a fabulous weekend'
+p258
+I25
+sS'breakfast its very good'
+p259
+I1
+sS'morning Player! Rather than'
+p260
+I38
+sS'your weekend going?</span><br style="box-sizing:'
+p261
+I3
+sS'like to know more'
+p262
+I83
+sS'see your band data..'
+p263
+I15
+sS'weekend buddy! Keep me'
+p264
+I22
+sS'Keep me posted. :)'
+p265
+I22
+sS'can u see my'
+p266
+I3
+sS'health tip for you-'
+p267
+I45
+sS'Foods..which will make it'
+p268
+I22
+sS'Vishal. WOw!!! you had'
+p269
+I1
+sS'shall aim to be'
+p270
+I66
+sS'<img src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-music.gif" alt="" />'
+p271
+I7
+sS'today than we were'
+p272
+I65
+sS'As always some amazing'
+p273
+I1
+sS'Put them together and'
+p274
+I42
+sS'class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/user/images/s_1398239257.jpg" alt="" />'
+p275
+I1
+sS'alt="" /><br /><br />I'
+p276
+I660
+sS'you are not burning'
+p277
+I46
+sS'alt="" /><br /><br /><br'
+p278
+I450
+sS'get connected over a'
+p279
+I115
+sS'would like to share'
+p280
+I481
+sS'glad to see your'
+p281
+I137
+sS'font-size: 18px; line-height: 21.6000003814697px;">Relishing'
+p282
+I3
+sS'calories as you should.'
+p283
+I46
+sS'is Queen. Put them'
+p284
+I20
+sS'got a kingdom of'
+p285
+I60
+sS'fabulous weekend buddy! Keep'
+p286
+I22
+sS'for you to avoid'
+p287
+I22
+sS'18px; line-height: 21.6000003814697px;" /><br'
+p288
+I499
+sS'you had a mango'
+p289
+I2
+sS'you eat again, your'
+p290
+I46
+sS'How was your journey?'
+p291
+I2
+sS'than we were yesterday.'
+p292
+I52
+sS'line-height: 21.6000003814697px;" /><span style="box-sizing:'
+p293
+I289
+sS'we were yesterday. What'
+p294
+I19
+sS'about your health goals.<br'
+p295
+I9
+sS'sans-serif; font-size: 18px; line-height:'
+p296
+I2256
+s.

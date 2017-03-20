@@ -1,0 +1,977 @@
+(dp0
+S'in more'
+p1
+I196
+sS'you....Exercise is'
+p2
+I20
+sS'and Stretch...'
+p3
+I22
+sS'start syncing'
+p4
+I162
+sS'Worked well'
+p5
+I1
+sS'at the'
+p6
+I4689
+sS'buddy! Keep'
+p7
+I23
+sS'the wrong'
+p8
+I56
+sS'hi Vishal'
+p9
+I2
+sS'line-height: 21.6000003814697px;"'
+p10
+I1800
+sS'for you'
+p11
+I10110
+sS'will make'
+p12
+I617
+sS'Roboto, sans-serif;'
+p13
+I7123
+sS'point Donation'
+p14
+I3
+sS'coaching soon.'
+p15
+I5
+sS'are not'
+p16
+I1255
+sS'class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/user/images/s_1398239257.jpg"'
+p17
+I1
+sS'/>I would'
+p18
+I477
+sS'as you'
+p19
+I6552
+sS'I would'
+p20
+I6050
+sS'your weekend'
+p21
+I4200
+sS'to know'
+p22
+I4224
+sS'/><br />'
+p23
+I33253
+sS'antioxidants from'
+p24
+I2
+sS'morning Player!'
+p25
+I38
+sS'of the'
+p26
+I9781
+sS'metabolism slows'
+p27
+I47
+sS'resulting in'
+p28
+I58
+sS'week Kishor.<img'
+p29
+I1
+sS'them together'
+p30
+I83
+sS'together and'
+p31
+I99
+sS'Can I'
+p32
+I257
+sS'mango in'
+p33
+I1
+sS'exercise should'
+p34
+I7
+sS'Your body'
+p35
+I235
+sS'its very'
+p36
+I49
+sS'Good one\r\n&nbsp;'
+p37
+I1
+sS'from the'
+p38
+I2365
+sS'fruit. How'
+p39
+I1
+sS'So when'
+p40
+I179
+sS'As always'
+p41
+I5
+sS'when you'
+p42
+I2252
+sS'/><br />I'
+p43
+I5827
+sS'Great lunch'
+p44
+I1
+sS'is do&nbsp;'
+p45
+I1
+sS'you have'
+p46
+I9176
+sS'weekend.. Rise'
+p47
+I22
+sS'is a'
+p48
+I9033
+sS'Good morning'
+p49
+I2541
+sS'a kingdom'
+p50
+I60
+sS'Hey Player!'
+p51
+I32
+sS'Vishal. Ready'
+p52
+I1
+sS'aim to'
+p53
+I315
+sS'to do'
+p54
+I3891
+sS'breakfast its'
+p55
+I1
+sS'Hey Player...'
+p56
+I38
+sS'your band'
+p57
+I3264
+sS'be perfect,'
+p58
+I91
+sS'say? :)'
+p59
+I25
+sS'class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/conversation/1413798273_100X100.png"'
+p60
+I1
+sS'better today'
+p61
+I159
+sS'eat again,'
+p62
+I46
+sS'What exercise'
+p63
+I44
+sS'/><br />Waiting'
+p64
+I289
+sS'to relax..'
+p65
+I23
+sS'we were'
+p66
+I180
+sS'aiming to'
+p67
+I143
+sS'your favorite'
+p68
+I246
+sS'not burning'
+p69
+I46
+sS'to see'
+p70
+I7020
+sS'thinks that'
+p71
+I46
+sS'avoid tiredness:)'
+p72
+I1
+sS'like to'
+p73
+I4741
+sS'a king,'
+p74
+I53
+sS'line-height: 21.6000003814697px;">How\'s'
+p75
+I16
+sS'helooo mit'
+p76
+I1
+sS'/><br style="box-sizing:'
+p77
+I1540
+sS'have got'
+p78
+I348
+sS'connected over'
+p79
+I143
+sS'21.6000003814697px;">How\'s your'
+p80
+I3
+sS'glad to'
+p81
+I655
+sS'meals, your'
+p82
+I52
+sS'slows down'
+p83
+I64
+sS"Here's a"
+p84
+I76
+sS'Stretch... Find'
+p85
+I22
+sS'make it'
+p86
+I2077
+sS'down and'
+p87
+I153
+sS'Find some'
+p88
+I22
+sS'Kishor,<br /><br'
+p89
+I12
+sS'band data..'
+p90
+I59
+sS'Cool can'
+p91
+I1
+sS'alt="" />'
+p92
+I21845
+sS'for today?'
+p93
+I594
+sS'Have a'
+p94
+I2931
+sS'<img class="imageViewerInLarge"'
+p95
+I6988
+sS"/>Let's get"
+p96
+I146
+sS'easier for'
+p97
+I86
+sS'and you'
+p98
+I3548
+sS'src="http://goqii-app.s3.amazonaws.com/user/images/s_1398239257.jpg" alt=""'
+p99
+I1
+sS'Rather than'
+p100
+I144
+sS'would like'
+p101
+I3713
+sS'What say?'
+p102
+I948
+sS'up for'
+p103
+I1088
+sS'should is'
+p104
+I1
+sS'Put them'
+p105
+I43
+sS'start the'
+p106
+I1150
+sS'color: #5d5d5d;'
+p107
+I3413
+sS'goals.<br /><br'
+p108
+I68
+sS'Vishal. WOw!!!'
+p109
+I1
+sS'I delete'
+p110
+I11
+sS'Try a'
+p111
+I390
+sS'weekend going?</span><br'
+p112
+I3
+sS'relax.. Try'
+p113
+I22
+sS'/><span style="box-sizing:'
+p114
+I620
+sS'border-box; margin:'
+p115
+I6205
+sS"Player... Here's"
+p116
+I25
+sS'Please start'
+p117
+I63
+sS'should. Your'
+p118
+I46
+sS'got it&nbsp;'
+p119
+I4
+sS'class="imageViewerInLarge" src="http://goqii-app.s3.amazonaws.com/user/images/s_1398265226.jpg"'
+p120
+I1
+sS'share with'
+p121
+I889
+sS'morning Vishal.'
+p122
+I1
+sS'push message??'
+p123
+I1
+sS'dashboard.<img class="imageViewerInLarge"'
+p124
+I3
+sS'margin: 0px;'
+p125
+I6374
+sS'you eat'
+p126
+I886
+sS'away more'
+p127
+I46
+sS'Hey player..'
+p128
+I21
+sS'18px; line-height:'
+p129
+I2295
+sS'Karma point'
+p130
+I638
+sS'health tip'
+p131
+I86
+sS'nutrition is'
+p132
+I61
+sS'start of'
+p133
+I756
+sS'for you-'
+p134
+I51
+sS'and Shine'
+p135
+I24
+sS'health. :)'
+p136
+I32
+sS'posted. :)'
+p137
+I24
+sS'you are'
+p138
+I12866
+sS'good health.'
+p139
+I158
+sS'shining my'
+p140
+I2
+sS'something I'
+p141
+I88
+sS'fat. :)'
+p142
+I42
+sS'avoid the'
+p143
+I150
+sS'of good'
+p144
+I173
+sS'data too&nbsp;'
+p145
+I1
+sS'you should.'
+p146
+I48
+sS'a fabulous'
+p147
+I58
+sS'Hi Kishor,<br'
+p148
+I6
+sS'to hear'
+p149
+I2901
+sS'Hello Vishal.'
+p150
+I1
+sS'are you?'
+p151
+I4394
+sS"Player! It's"
+p152
+I22
+sS'had a'
+p153
+I2748
+sS'yes got'
+p154
+I9
+sS'my steps'
+p155
+I103
+sS'When you'
+p156
+I477
+sS'new activity...Keep'
+p157
+I22
+sS'yesterday. What'
+p158
+I39
+sS'again, your'
+p159
+I49
+sS'/><br /><br'
+p160
+I7067
+sS'Player! Rather'
+p161
+I38
+sS'Hi player'
+p162
+I11
+sS'src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-laughing.gif" alt=""'
+p163
+I2503
+sS'line-height: 21.6000003814697px;">Relishing'
+p164
+I3
+sS'font-size: 18px;'
+p165
+I2509
+sS'0px; color:'
+p166
+I5889
+sS'body thinks'
+p167
+I46
+sS'body stores'
+p168
+I49
+sS'burning calories'
+p169
+I62
+sS'than we'
+p170
+I103
+sS'very good'
+p171
+I841
+sS'your Karma'
+p172
+I40
+sS'would really'
+p173
+I236
+sS'Good to'
+p174
+I1332
+sS'food plate&nbsp;'
+p175
+I1
+sS'forget to'
+p176
+I840
+sS'you had'
+p177
+I2421
+sS'weekend buddy!'
+p178
+I25
+sS"/><br />Let's"
+p179
+I801
+sS'some amazing'
+p180
+I46
+sS'Kishor.<img src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-laughing.gif"'
+p181
+I1
+sS'padding: 0px;'
+p182
+I6322
+sS"Here's something"
+p183
+I32
+sS'we shall'
+p184
+I197
+sS'0px; padding:'
+p185
+I6305
+sS'more about'
+p186
+I1154
+sS'a mango'
+p187
+I5
+sS'my food'
+p188
+I229
+sS"player.. Here's"
+p189
+I20
+sS'today? I'
+p190
+I169
+sS'to share'
+p191
+I2019
+sS'21.6000003814697px;">Relishing your'
+p192
+I3
+sS'some mindful'
+p193
+I2
+sS'activity...Keep yourself'
+p194
+I22
+sS'data.. Please'
+p195
+I14
+sS'the Right'
+p196
+I23
+sS'always some'
+p197
+I2
+sS'Queen. Put'
+p198
+I20
+sS'Don,t forget'
+p199
+I1
+sS'with the'
+p200
+I5333
+sS'full with'
+p201
+I24
+sS'21.6000003814697px;" /><br'
+p202
+I547
+sS'body metabolism'
+p203
+I199
+sS'some time'
+p204
+I964
+sS'numbers are'
+p205
+I5
+sS'to be'
+p206
+I6786
+sS'favorite food/relaxing/travelling/meeting'
+p207
+I3
+sS'call to'
+p208
+I1958
+sS'your journey?'
+p209
+I2
+sS'the lunch?:)'
+p210
+I1
+sS'are starving.'
+p211
+I46
+sS'How was'
+p212
+I4383
+sS'source of'
+p213
+I443
+sS'Nice start'
+p214
+I8
+sS'see your'
+p215
+I3898
+sS'and sleep'
+p216
+I672
+sS'delete my'
+p217
+I2
+sS'journey? Don,t'
+p218
+I1
+sS'be glad'
+p219
+I301
+sS'hear from'
+p220
+I2307
+sS'my vishalgondal@hotmail.com'
+p221
+I1
+sS'Right Foods..which'
+p222
+I22
+sS'Got it'
+p223
+I76
+sS'a little'
+p224
+I1796
+sS'a health'
+p225
+I2379
+sS'See my'
+p226
+I4
+sS'steps and'
+p227
+I393
+sS'in breakfast'
+p228
+I184
+sS'usual resulting'
+p229
+I46
+sS'sleep data'
+p230
+I102
+sS'src="http://goqii-app.s3.amazonaws.com/user/images/s_1398265226.jpg" alt=""'
+p231
+I1
+sS'more fat.'
+p232
+I71
+sS'#5d5d5d; font-family:'
+p233
+I3134
+sS'time to'
+p234
+I3441
+sS'/><br /><span'
+p235
+I704
+sS'of antioxidants'
+p236
+I276
+sS'amazing numbers'
+p237
+I19
+sS'over a'
+p238
+I1591
+sS'alt="" /><br'
+p239
+I6131
+sS'yourself full'
+p240
+I24
+sS'little better'
+p241
+I144
+sS'about your'
+p242
+I3348
+sS'is Queen.'
+p243
+I20
+sS'than aiming'
+p244
+I91
+sS'you skip'
+p245
+I88
+sS'see my'
+p246
+I124
+sS'health goals.<br'
+p247
+I57
+sS'Foods..which will'
+p248
+I22
+sS'the fruit.'
+p249
+I3
+sS"Hey Player...What's"
+p250
+I12
+sS'you- When'
+p251
+I46
+sS"Player...What's up"
+p252
+I12
+sS'really like'
+p253
+I287
+sS'mindful eating'
+p254
+I269
+sS'WOw!!! you'
+p255
+I1
+sS'wrong ones!'
+p256
+I22
+sS'the week'
+p257
+I4059
+sS'good source'
+p258
+I225
+sS'Shine and'
+p259
+I37
+sS'vishalgondal@hotmail.com account'
+p260
+I1
+sS'to start'
+p261
+I1591
+sS'sans-serif; font-size:'
+p262
+I7464
+sS'me posted.'
+p263
+I51
+sS'kingdom of'
+p264
+I60
+sS'nn'
+p265
+I2
+sS'hi mitali\r\n&nbsp;'
+p266
+I1
+sS'to avoid'
+p267
+I650
+sS"It's a"
+p268
+I734
+sS'starving. So'
+p269
+I46
+sS'it easier'
+p270
+I46
+sS'<img src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-music.gif"'
+p271
+I7
+sS'are shining'
+p272
+I6
+sS'would be'
+p273
+I3810
+sS'fabulous weekend'
+p274
+I40
+sS'going?</span><br style="box-sizing:'
+p275
+I8
+sS'with you....Exercise'
+p276
+I20
+sS'was your'
+p277
+I4464
+sS'Hello coach'
+p278
+I50
+sS'can u'
+p279
+I791
+sS'my dashboard.<img'
+p280
+I3
+sS'a call'
+p281
+I2309
+sS'font-family: Roboto,'
+p282
+I7150
+sS'king, nutrition'
+p283
+I42
+sS'21.6000003814697px;" /><span'
+p284
+I607
+sS'a new'
+p285
+I1463
+sS'Helol coach'
+p286
+I1
+sS'eating at'
+p287
+I27
+sS'a weekend..'
+p288
+I29
+sS'stretches to'
+p289
+I13
+sS'that you'
+p290
+I7160
+sS'style="box-sizing: border-box;'
+p291
+I6190
+sS'your health'
+p292
+I3068
+sS'calories as'
+p293
+I65
+sS'perfect, we'
+p294
+I66
+sS'know more'
+p295
+I844
+sS'src="http://goqii-app.s3.amazonaws.com/conversation/1413798273_100X100.png" alt=""'
+p296
+I1
+sS'some stretches'
+p297
+I66
+sS'Rise and'
+p298
+I24
+sS'your body'
+p299
+I3626
+sS'stores away'
+p300
+I46
+sS'get connected'
+p301
+I710
+sS'got a'
+p302
+I448
+sS'you to'
+p303
+I7154
+sS'food/relaxing/travelling/meeting friends?</span>'
+p304
+I3
+sS'ones! Have'
+p305
+I22
+sS'/>Waiting to'
+p306
+I204
+sS'be a'
+p307
+I6333
+sS'for some'
+p308
+I756
+sS'more than'
+p309
+I1670
+sS'today than'
+p310
+I106
+sS'tip for'
+p311
+I198
+sS'Keep me'
+p312
+I300
+sS'Ready for'
+p313
+I95
+sS'from you..'
+p314
+I324
+sS'the coaching'
+p315
+I440
+sS'u see'
+p316
+I498
+sS'than usual'
+p317
+I181
+sS'syncing it!'
+p318
+I13
+sS'player Mitali!'
+p319
+I1
+sS'how are'
+p320
+I1007
+sS'do some'
+p321
+I1322
+sS'src="http://goqii-app.s3.amazonaws.com/emoticons/smiley-music.gif" alt=""'
+p322
+I8
+sS'skip meals,'
+p323
+I49
+sS'shall aim'
+p324
+I76
+sS'were yesterday.'
+p325
+I54
+s.
